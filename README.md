@@ -4,9 +4,8 @@
 
 ## Team Members
 
-1. **Name:** [Student Name 1] | **USN:** [Student USN 1]
-2. **Name:** [Student Name 2] | **USN:** [Student USN 2]
-3. **Name:** [Student Name 3] | **USN:** [Student USN 3]
+1. **Name:** Ashank | **USN:** 123
+2. **Name:** David | **USN:** 345
 
 ## How to Run the Program
 
